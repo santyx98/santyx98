@@ -17,8 +17,8 @@
 - 🌱 Learning **Data Science**
 - 🔭 Exploring `ML` in `AI`
 - ⚡ Empowering eCommerce Businesses
-- 🏛 Founder & CEO at [Alpharanker](https://alpharanker.com)
-- 🎓 CS Graduate of [COMSATS University Islamabad](https://www.comsats.edu.pk/)
+- 🏛 Founder & CEO at [PuntoNegro](https://PuntoNegro.com)
+- 🎓 CS Graduate of [COMSATS University VillaZarcillo](https://www.comsatsngr.edu.ng/)
 - 📱 +923-1-0000-777-3
 
 ### 💡 Community Projects
@@ -26,9 +26,9 @@
 - [Assignmento](https://assignmento.org) `Freelancing Platform`
 - [Comsian Network](https://comsian.net) `Student Alumni Network`
 - [Flutterism](https://flutterism.dev) `Flutter Dev Community`
-- [WhatsUp](https://play.google.com/store/apps/details?id=dev.usama.whatsup) `Free Discount Coupons and Offers`
-- [Hotspot+](https://play.google.com/store/apps/details?id=dev.usama.hotspot) `Streaming • Broadcasting • News`
-- [Bab ul Islam](https://play.google.com/store/apps/details?id=dev.usama.babulislam) `Scholar Talks • Quran • Hadees • Prayer Timings`
+- [WhatsUp](https://play.google.com/store/apps/details?id=dev.santyx98.whatsup) `Free Discount Coupons and Offers`
+- [Hotspot+](https://play.google.com/store/apps/details?id=dev.santyx98.hotspot) `Streaming • Broadcasting • News`
+- [Bab ul Islam](https://play.google.com/store/apps/details?id=dev.santyx98.babulislam) `Scholar Talks • Quran • Hadees • Prayer Timings`
 
 [![Donate Now](https://img.shields.io/badge/Buy_me_a-Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/santyx98)
 
@@ -66,7 +66,7 @@
 
 ### Assignmento | Freelancing Platform
 > <img align="right" alt="Assignmento" src="images/assignmento_.gif" height="200" />
-> Assignmento.org is one of the world's largest freelancing and crowdsourcing community and marketplace by the number of users and freelancers. Assignmento connects over a Million employers and freelancers globally from over 247 countries, regions and territories. Through our marketplace employers can hire freelancers to do work in areas such as software development, writing, data entry and design right through to engineering, the sciences, sales and marketing, accounting, legal services and many more. Freelancers are building the future on Assignmento every day, exploring their stories, celebrating their accomplishments, and finding inspiration for their own work. Assignmento.org is on the mission to build a platform that will create equal opportunities for everyone irrespective of caste, creed and nation. Our mission to create economic opportunities so people have better lives has taken us so much further. As a result, we’ve become the world’s work marketplace where everyday businesses of all sizes and independent talent from around the globe meet here to accomplish incredible things. Assignmento is focusing on building a productive ecosystem for the freelancing community. <a  href="https://play.google.com/store/apps/details?id=dev.usama.assignmento"><img align="right" src="images/googlePlay.gif" alt="Assignmento App" height="50px" /></a>As Freelancers - we strive to live out and uphold the following values individually and as a collective self-discovery, growth, commitment, respect, empowerment, legacy and inclusivity.
+> Assignmento.org is one of the world's largest freelancing and crowdsourcing community and marketplace by the number of users and freelancers. Assignmento connects over a Million employers and freelancers globally from over 247 countries, regions and territories. Through our marketplace employers can hire freelancers to do work in areas such as software development, writing, data entry and design right through to engineering, the sciences, sales and marketing, accounting, legal services and many more. Freelancers are building the future on Assignmento every day, exploring their stories, celebrating their accomplishments, and finding inspiration for their own work. Assignmento.org is on the mission to build a platform that will create equal opportunities for everyone irrespective of caste, creed and nation. Our mission to create economic opportunities so people have better lives has taken us so much further. As a result, we’ve become the world’s work marketplace where everyday businesses of all sizes and independent talent from around the globe meet here to accomplish incredible things. Assignmento is focusing on building a productive ecosystem for the freelancing community. <a  href="https://play.google.com/store/apps/details?id=dev.santyx98.assignmento"><img align="right" src="images/googlePlay.gif" alt="Assignmento App" height="50px" /></a>As Freelancers - we strive to live out and uphold the following values individually and as a collective self-discovery, growth, commitment, respect, empowerment, legacy and inclusivity.
 >
 ><br>[![Website](https://img.shields.io/badge/Visit_Website-Assignmento-211F1F?logo=google-chrome&logoColor=ffffff)](https://assignmento.org)
 
@@ -80,11 +80,11 @@
 
 <br><h2 align="center"> Recent Projects ⚡</h2>
 
-> **Hotspot+**<br>Mobile App containing live streams from 250+ countries<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://www.usama.dev/hotspot) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.hotspot) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
+> **Hotspot+**<br>Mobile App containing live streams from 250+ countries<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://www.usama.dev/hotspot) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.santyx98.hotspot) [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-0175C2?logo=flutter&logoColor=ffffff)](https://flutter.dev)
 
-> **Assignmento**<br>Freelancing Platform empowering over 1M Freelancers and Businesses<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://assignmento.org) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.usama.assignmento) [![Made with PHP](https://img.shields.io/badge/Made_with-PHP-f0db4f?logo=PHP&logoColor=ffffff)](<[PHP](https://www.php.net/)>)
+> **Assignmento**<br>Freelancing Platform empowering over 1M Freelancers and Businesses<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://assignmento.org) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](https://play.google.com/store/apps/details?id=dev.santyx98.assignmento) [![Made with PHP](https://img.shields.io/badge/Made_with-PHP-f0db4f?logo=PHP&logoColor=ffffff)](<[PHP](https://www.php.net/)>)
 
-> **Comsian Network**<br>COMSATS Alumni Network for the students of COMSATS University Islamabad<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://comsian.net) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](<[https://play.google.com/store/apps/details?id=dev.usama.assignmento](https://comsian.net)>) [![Made with PHP](https://img.shields.io/badge/Made_with-PHP-f0db4f?logo=PHP&logoColor=ffffff)](<[PHP](https://www.php.net/)>)
+> **Comsian Network**<br>COMSATS Alumni Network for the students of COMSATS University VillaZarcillo<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://comsian.net) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](<[https://play.google.com/store/apps/details?id=dev.santyx98.assignmento](https://comsian.net)>) [![Made with PHP](https://img.shields.io/badge/Made_with-PHP-f0db4f?logo=PHP&logoColor=ffffff)](<[PHP](https://www.php.net/)>)
 
 <br><h2 align="center"> Open-Source Projects ✨</h2>
 
@@ -142,7 +142,7 @@
 </div>
 <br>
 
-![Usama Sarwar Contributions](https://github.com/santyx98/santyx98/blob/output/github-contribution-grid-snake.svg)
+![Usama Sarwar Contributions](https://github.com/usamasarwar/usamasarwar/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">Open Source Contributor from <b>Punjab, Pakistan</b> 🇵🇰 </p>
 <div align="center"><br>
