@@ -144,7 +144,7 @@
 
 ![Usama Sarwar Contributions](https://github.com/usamasarwar/usamasarwar/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">Open Source Contributor from <b>Punjab, Pakistan</b> 🇵🇰 </p>
+<p align="center">Open Source Contributor from <b>Benesuela</b> 🇵🇰 </p>
 <div align="center"><br>
 <p><a href="https://www.buymeacoffee.com/santyx98"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="Buy me a Coffee ☕" /></a></p>
 </div>
