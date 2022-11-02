@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=opsgenie&logoColor=ffffff"></a> 
 <a href="https://github.com/santyx98/">
 <img src="https://img.shields.io/badge/Github-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a> 
-<a href="https://www.youtube.com/PuntoNegro?sub_confirmation=1">
+<a href="https://www.https://www.youtube.com/channel/UCimgIu2EO7AUBAHSyBHwrLg">
 <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=ffffff"></a>
 <a href="https://www.linkedin.com/in/santyx98Official/">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=ffffff"></a>
