@@ -12,7 +12,7 @@
 
 <img align="right" alt="Developer Usama Sarwar" src="images/coding.gif" width="300"/>
 
-- 😄 Pronouns me as `/ue-saw-ma/`
+- 😄 Pronouns me as `/santy/`
 - 💻 Full-stack [Flutter](https://flutter.dev) Developer
 - 🌱 Learning **Data Science**
 - 🔭 Exploring `ML` in `AI`
